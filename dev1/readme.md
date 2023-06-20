@@ -3,7 +3,7 @@
 - [简介 · GitBook (shenjun-coder.github.io)](https://shenjun-coder.github.io/LuaBook/)
 - 学习网站
 
-## 冷更新
+## 冷更新   
 
 - 发布平台，测试后更新数据，==先关闭应用再进行更新==
 
